@@ -97,6 +97,7 @@ namespace CodingTest
   * Refactor the BackgroundCheckService class to account for multiple background check implementations while exposing the same methods (RegisterApplicant/VerifyApplication) to the controller class.
   * Write your code as if it were being deployed to production.
   * Keep in mind that this API is currently being used in production.
+  * Make sure to adhere to security best practices (OWASP) when refactoring.
   
 
   
