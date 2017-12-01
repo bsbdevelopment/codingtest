@@ -1,6 +1,6 @@
 # Blue Sombrero Coding Test
 
-Hi. Here at Blue Sombrero we aren't fans of white board coding tests as they often aren't representative of the actual work you'll be doing. Instead, we prefer a take home test. You'll be able to complete this test in the comfort of your own home or your favorite coffee shop. There's no time limit (we do ask you to complete the test prior to your in person interview) and feel free to use any online resource for help. We don't mind you asking a friend for help but please take only their advice and not their offer of completing the test for you.
+Here at Blue Sombrero we aren't fans of white board coding tests as they often aren't representative of the actual work you'll be doing. Instead, we prefer a take home test. You'll be able to complete this test in the comfort of your own home or your favorite coffee shop. There's no time limit (we do ask you to complete the test prior to your in person interview) and feel free to use any online resource for help. We don't mind you asking a friend for help but please take only their advice and not their offer of completing the test for you.
 
 ## Setup
 
