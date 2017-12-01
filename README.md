@@ -62,7 +62,7 @@ namespace CodingTest.Controllers
   
   This API exposes two POST methods - One for Registering an Applicant with the Background Check Provider and one for verification.
   
-  Let's take a look at the service file
+ *BackgroundCheckService*
   
   ```
   using System;
@@ -87,9 +87,7 @@ namespace CodingTest
 
   ```
   
-  As you can see, it's a basic implementation. 
-  
-  ## Your Task
+  ## Your tasks for this test
   
   The API needs to be modified to call the correct implementation of the background check provider based off some identifer that should be passed in when making a POST to either method (RegisterApplicant/VerifyApplication)
   
