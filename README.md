@@ -91,6 +91,12 @@ namespace CodingTest
   
   ## Your Task
   
-  * Refactor the code so that no matter how many Background Check providers are added, they use the same two methods - RegisterApplicant and VerifyApplication based on some identifier 
-  * Write production ready code. This includes tests
+  The API needs to be modified to call the correct implementation of the background check provider based off some identifer that should be passed in when making a POST to either method (RegisterApplicant/VerifyApplication)
+  
+  * Refactor the VerifyController POST methods to accept this identifier (implementation is up to you)
+  * Refactor the BackgroundCheckService class to account for multiple background check implementations while exposing the same methods (RegisterApplicant/VerifyApplication) to the controller class.
+  * Write your code as if it were being deployed to production.
+  * Keep in mind that this API is currently being used in production.
+  
+
   
